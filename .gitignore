@@ -1,0 +1,14 @@
+.DS_Store
+.tools/
+.pio/
+__pycache__/
+*.pyc
+*.log
+*.wav
+.env
+.env.*
+captures/
+enhancements/
+quick-capture/state/
+quick-capture/*.app/
+firmware/secrets.h
